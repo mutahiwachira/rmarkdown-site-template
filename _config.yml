@@ -1,1 +1,1 @@
-exclude: ["*.Rmd", ".md"]
+exclude: ["*.Rmd", "*.md"]
