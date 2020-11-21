@@ -1,2 +1,2 @@
-# northwind-retail
-Data analysis of the Northwind retail data warehouse
+# README
+Readme file for the Github repo. Not printed to the website. The website's homepage will be index.html...
